@@ -1,6 +1,6 @@
-👋 Hi, I’m Phuong, a curious “peacemaker”.
+👋 Hi, I’m Phuong, a curious “peacemaker.”
 
-I love asking questions and digging deep into problems (not peaceful huh 😅). Because I value clarity and transparency, I cannot hold my curiosity to find out why. I am fascinated by how things work, how tools can be used, and how facts can be put together to create satisfying results.
+I love asking questions and digging deep into problems (not peaceful huh 😅). Because I value clarity and transparency, I cannot hold my curiosity to find out "why." I am fascinated by how things work, how tools can be used 🔧, and how facts can be put together to create satisfying results.
 
 As such, I feel good being a problem solver and exploring ideas through creating, troubleshooting, trial and error 🌱. With a little space and interesting challenges, I can be some of the most productive people around, who learn extremely fast by getting my hands dirty. _Practicality and freedom, spontaneity with logic, it’s who I am._
 
