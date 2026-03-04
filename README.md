@@ -15,6 +15,7 @@ When it comes to my personal and professional connections 👫, I'm a great list
 🔖 I have worked on analytics projects across various sectors, including marketing & sales, retail, logistics & supply chain, sports & entertainment, energy, etc.
 
 ## 🛠 Skills I'm deepening
+
 - **Programming & Databases:** SQL (MySQL, PostgreSQL) | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow) | Excel (PivotTable, Power Query) 
 - **Visualization & BI:** Google Looker Studio | Tableau | PowerBI
 - **Analytics & Modeling:** ETL | Data Pipelines | Statistical Modeling | Machine Learning | A/B Testing
@@ -42,5 +43,4 @@ When it comes to my personal and professional connections 👫, I'm a great list
 - [Car Insurance Loss Analytics](https://github.com/plvu99/Car-Insurance-Loss-Analytics)
 - [Impact of Salary Hikes on Employee Attrition](https://github.com/plvu99/Impact-of-Salary-Hikes-on-Employee-Attrition)
 
-## 📫 I would love to connect and collaborate
-[LinkedIn](https://www.linkedin.com/in/phuong-vu-lan/) | Email: plvu@marshall.usc.edu
+**📫 I would love to connect and collaborate on promising data projects that leverage real-world datasets to generate actionable insights and improve business decision-making.**
