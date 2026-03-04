@@ -43,4 +43,4 @@ When it comes to my personal and professional connections 👫, I'm a great list
 - [Car Insurance Loss Analytics](https://github.com/plvu99/Car-Insurance-Loss-Analytics)
 - [Impact of Salary Hikes on Employee Attrition](https://github.com/plvu99/Impact-of-Salary-Hikes-on-Employee-Attrition)
 
-**📫 I would love to connect and collaborate on promising data projects that leverage real-world datasets to generate actionable insights and improve business decision-making.**
+**📫 I would love to connect and collaborate on promising projects that leverage real-world datasets to generate actionable insights and improve business decision-making.**
