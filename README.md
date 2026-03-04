@@ -43,6 +43,8 @@ When working with others 👫, I'm a thoughtful listener who aims to provide pra
 - [Car Insurance Loss Analytics](https://github.com/plvu99/Car-Insurance-Loss-Analytics)
 - [Impact of Salary Hikes on Employee Attrition](https://github.com/plvu99/Impact-of-Salary-Hikes-on-Employee-Attrition)
 
-_📫 I would love to connect and collaborate on data analytics and machine learning projects that tackle real-world problems and generate actionable insights to support better product, operational, and strategic decisions._
+## 📫 Connect with me
+
+I would love to connect and collaborate on data analytics and machine learning projects that tackle real-world problems and generate actionable insights to support better product, operational, and strategic decisions.
 
 My email: plvu@marshall.usc.edu
