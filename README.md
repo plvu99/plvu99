@@ -1,23 +1,23 @@
 **👋 Hi, I’m Phuong, a curious “peacemaker.”**
 
-I love asking questions and digging deep into problems (not peaceful huh 😅). Because I value clarity and transparency, I can't help but wonder "why." I'm fascinated by how things work, how tools can be used 🔧, and how facts can be put together to create satisfying results.
+I enjoy asking questions and digging deep into problems (maybe not so peaceful after all 😅). I value clarity and transparency, so I naturally ask "why?" and explore how things work. I'm fascinated by how tools can be used 🔧 and how data and facts can come together to create meaningful and satisfying outcomes.
 
-As such, I feel good being a problem solver and exploring ideas through creating, troubleshooting, trial and error 🌱. With a little space and interesting challenges, I can be one of the most productive people around, who learns extremely fast by getting my hands dirty. _Practicality and freedom, spontaneity with logic, it’s who I am._
+I'm a problem solver who generates ideas through creating, troubleshooting, trial and error 🌱. With the right space and interesting challenges, I can be one of the most productive people around, who learns quickly by getting my hands dirty. _Practicality and freedom, spontaneity with logic, it’s who I am._
 
-When it comes to my personal and professional connections 👫, I'm a great listener who devises practical, fair, and impartial solutions. That’s how I earn their trust because of unbiased viewpoints and giving them “a peace of mind.”
+When working with others 👫, I'm a thoughtful listener who aims to provide practical, fair, and unbiased perspectives. That’s how I earn their trust and give them "a peace of mind."
 
-## 🙋‍♀️ A little bit about myself
+## 🙋‍♀️ A little about me
 
-📊 I'm pursuing a MS in Business Analytics at USC (graduating May 2026).
+📊 MS in Business Analytics at USC (expected May 2026).
 
-⚙️ I have ~3 years of experience in product, marketing, and growth analytics.
+⚙️ ~3 years of experience in product, marketing, and growth analytics.
 
-🔖 I have worked on analytics projects across various sectors, including marketing & sales, retail, logistics & supply chain, sports & entertainment, energy, etc.
+🔖 Analytics experience across multiple domains including marketing & sales, retail, logistics & supply chain, sports & entertainment, energy, etc.
 
 ## 🛠 Skills I'm deepening
 
-- **Programming & Databases:** SQL (MySQL, PostgreSQL) | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow) | Excel (PivotTable, Power Query) 
-- **Visualization & BI:** Google Looker Studio | Tableau | PowerBI
+- **Programming & Databases:** SQL (MySQL, PostgreSQL) | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow) | Excel (PivotTables, Power Query) 
+- **Visualization & BI:** Tableau | PowerBI | Google Looker Studio 
 - **Analytics & Modeling:** ETL | Data Pipelines | Statistical Modeling | Machine Learning | A/B Testing
 - **Tools:** Google BigQuery | Google Cloud Platform | Google Workspace | Microsoft Office
 
@@ -43,4 +43,4 @@ When it comes to my personal and professional connections 👫, I'm a great list
 - [Car Insurance Loss Analytics](https://github.com/plvu99/Car-Insurance-Loss-Analytics)
 - [Impact of Salary Hikes on Employee Attrition](https://github.com/plvu99/Impact-of-Salary-Hikes-on-Employee-Attrition)
 
-**📫 I would love to connect and collaborate on promising projects that leverage real-world datasets to generate actionable insights and improve business decision-making.**
+**📫 I would love to connect and collaborate on data analytics and machine learning projects that tackle real-world problems and generate actionable insights to support better product, operational, and strategic decisions.**
