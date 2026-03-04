@@ -8,11 +8,11 @@ When working with others 👫, I'm a thoughtful listener who aims to provide pra
 
 ## 🙋‍♀️ A little about me
 
-📊 MS in Business Analytics at USC (expected May 2026).
+- MS in Business Analytics at USC (expected May 2026).
 
-⚙️ ~3 years of experience in product, marketing, and growth analytics.
+- ~3 years of experience in product, marketing, and growth analytics.
 
-🔖 Analytics experience across multiple domains including marketing & sales, retail, logistics & supply chain, sports & entertainment, energy, etc.
+- Analytics experience across multiple domains including marketing & sales, retail, logistics & supply chain, sports & entertainment, energy, etc.
 
 ## 🛠 Skills I'm deepening
 
