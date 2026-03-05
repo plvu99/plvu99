@@ -45,6 +45,6 @@ When working with others 👫, I'm a thoughtful listener who aims to provide pra
 
 ## 📫 Connect with me
 
-I would love to connect and collaborate on data analytics and machine learning projects that tackle real-world problems and generate actionable insights to support better product, operational, and strategic decisions.
+I would love to connect and collaborate on data analytics projects that tackle real-world problems and generate actionable insights to support better product, operational, and strategic decisions.
 
-My email: plvu@marshall.usc.edu
+Reach out to me at plvu@marshall.usc.edu.
