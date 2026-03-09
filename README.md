@@ -22,23 +22,23 @@ When working with others 👫, I'm a thoughtful listener who aims to provide pra
 ## ⭐ Projects I have worked on
 
 **Marketing & Sales**
-- [Sales Performance and Customer Behavior Analysis](https://github.com/plvu99/SQL-Driven-Analysis-of-Sales-Performance-and-Customer-Behavior)
-- [Market Campaign Analysis and Segmentation Strategy](https://github.com/plvu99/Analysis-of-Starbucks-Promotional-Campaign-and-Customer-Segmentation)
-- [Exploring Retail Sales Patterns and Holiday Effects](https://github.com/plvu99/Exploring-Retail-Sales-Patterns-and-Holiday-Season-Effects)
+- [Sales Performance and Customer Behavior Analysis Using SQL](https://github.com/plvu99/Sales-Performance-and-Customer-Behavior-Analysis-Using-SQL)
+- [Starbucks Promotional Campaign Analysis and Customer Segmentation](https://github.com/plvu99/Starbucks-Promotional-Campaign-Analysis-and-Customer-Segmentation)
+- [Retail Store Performance and Holiday Sales Analysis](https://github.com/plvu99/Retail-Store-Performance-and-Holiday-Sales-Analysis)
 
 **Logistics & Supply Chain**
-- [Clustering and Trend Analysis for Ride-Sharing Demand](https://github.com/plvu99/Clustering-and-Trend-Analysis-for-Ride-Sharing-Demand-and-Behavior)
-- [Impact of Uber Rides on Taxi Rides](https://github.com/plvu99/Impact-of-Uber-Rides-on-Taxi-Rides)
+- [Ride-Sharing Demand Hotspot Detection Using Clustering](https://github.com/plvu99/Ride-Sharing-Demand-Hotspot-Detection-Using-Clustering)
+- [Ride-Sharing Impact on Traditional Taxi Demand](https://github.com/plvu99/Ride-Sharing-Impact-on-Traditional-Taxi-Demand)
 
 **Sports & Entertainment**
 - [Home-Team Bias in MLB Umpiring](https://github.com/plvu99/Home-Team-Bias-in-MLB-Umpiring)
-- [Data-Driven Athlete Valuation for Performance and Brand Alignment](https://github.com/plvu99/Athlete-Valuation-for-Performance-and-Brand-Alignment)
+- [Athlete Valuation Using Performance and Social Analytics](https://github.com/plvu99/Athlete-Valuation-Using-Performance-and-Social-Analytics)
 - [Early Player Segmentation and Retention Analysis (Squad RPG Game)](https://github.com/plvu99/Early-Spender-and-Retention-Behavior-Analysis-in-a-Squad-RPG-Game)
 - [Predicting Day-14 Player Retention Using Machine Learning](https://github.com/plvu99/Predicting-Day-14-Player-Retention-Using-Machine-Learning)
 
 **Others**
-- [EV Smart Charging Optimization and Emissions Reduction](https://github.com/plvu99/EV-Smart-Charging-Optimization-Emissions-Reduction)
-- [Car Insurance Loss Analytics](https://github.com/plvu99/Car-Insurance-Loss-Analytics)
+- [Reducing EV Charging Emissions with Predictive Smart Charging](https://github.com/plvu99/Reducing-EV-Charging-Emissions-with-Predictive-Smart-Charging)
+- [Insurance Loss Prediction and Risk-Based Pricing with Machine Learning](https://github.com/plvu99/Insurance-Loss-Prediction-and-Risk-Based-Pricing-with-Machine-Learning)
 - [Impact of Salary Hikes on Employee Attrition](https://github.com/plvu99/Impact-of-Salary-Hikes-on-Employee-Attrition)
 
 ## 📫 Connect with me
