@@ -17,7 +17,7 @@ When working with others 👫, I'm a thoughtful listener who aims to provide pra
 - **Programming & Databases:** SQL (MySQL, PostgreSQL) | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow) | Excel (PivotTables, Power Query) 
 - **Visualization & BI:** Tableau | PowerBI | Google Looker Studio 
 - **Analytics & Modeling:** ETL | Data Pipelines | Statistical Modeling | Machine Learning | A/B Testing
-- **Tools:** Google BigQuery | Google Cloud Platform | Google Workspace | Microsoft Office
+- **Tools:** Google Workspace | Microsoft Office
 
 ## ⭐ Projects I have worked on
 
