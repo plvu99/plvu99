@@ -32,7 +32,6 @@ When working with others 👫, I'm a thoughtful listener who aims to provide pra
 
 **Sports & Entertainment**
 - [Home-Team Bias in MLB Umpiring](https://github.com/plvu99/Home-Team-Bias-in-MLB-Umpiring)
-- [Athlete Valuation Using Performance and Social Analytics](https://github.com/plvu99/Athlete-Valuation-Using-Performance-and-Social-Analytics)
 - [Early Player Segmentation and Retention Analysis (Squad RPG Game)](https://github.com/plvu99/Early-Spender-and-Retention-Behavior-Analysis-in-a-Squad-RPG-Game)
 - [Predicting Day-14 Player Retention Using Machine Learning](https://github.com/plvu99/Predicting-Day-14-Player-Retention-Using-Machine-Learning)
 
