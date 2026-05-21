@@ -42,8 +42,6 @@ When working with others 👫, I'm a thoughtful listener who aims to provide pra
 
 ## 📫 Connect with me
 
-📩 plvu@marshall.usc.edu
-
-🌐 https://plvu99.github.io/website/
-
-💼 https://www.linkedin.com/in/phuong-vu-lan/
+- Email: plvu@marshall.usc.edu
+- Website: https://plvu99.github.io/website/
+- LinkedIn: https://www.linkedin.com/in/phuong-vu-lan/
