@@ -8,7 +8,7 @@ When working with others 👫, I'm a thoughtful listener who aims to provide pra
 
 ## 🙋‍♀️ A little about me
 
-- Marketing, Growth & Product Data Analyst with 3+ years across SaaS, gaming, and logistics.
+- Product & Growth Marketing Analyst with 3+ years across SaaS, gaming, and logistics.
 - MS in Business Analytics at USC Marshall (May 2026).
 
 ## 🛠 Skills I'm deepening
