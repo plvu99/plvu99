@@ -1,14 +1,14 @@
 **👋 Hi, I’m Phuong, a curious “peacemaker.”**
 
-I enjoy asking questions and digging deep into problems (maybe not so peaceful after all 😅). I value clarity and transparency, so I naturally ask "why?" and explore how things work. I'm fascinated by how tools can be used 🔧 and how data and facts can come together to create meaningful and satisfying outcomes.
+I enjoy asking questions and digging deep into problems (maybe not so peaceful after all). I value clarity and transparency, so I naturally ask "why?" and explore how things work. I'm fascinated by how tools can be used and how data and facts can come together to create meaningful and satisfying outcomes.
 
-I'm a problem solver who generates ideas through creating, troubleshooting, trial and error 🌱. With the right space and interesting challenges, I learn quickly by getting my hands dirty. _Practicality and freedom, spontaneity with logic — it’s who I am._
+I'm a problem solver who generates ideas through creating, troubleshooting, trial and error. With the right space and interesting challenges, I learn quickly by getting my hands dirty. _Practicality and freedom, spontaneity with logic — it’s who I am._
 
-When working with others 👫, I'm a thoughtful listener who aims to provide practical, fair, and unbiased perspectives. That’s how I earn trust and give people "a peace of mind."
+When working with others, I'm a thoughtful listener who aims to provide practical, fair, and unbiased perspectives. That’s how I earn trust and give people "a peace of mind."
 
 ## 🙋‍♀️ A little about me
 
-- Product & Growth Marketing Analyst with 3+ years across SaaS, gaming, and logistics.
+- Growth & Product Marketing Analyst with 3+ years across SaaS, gaming, and logistics.
 - MS in Business Analytics at USC Marshall (May 2026).
 
 ## 🛠 Skills I'm deepening
