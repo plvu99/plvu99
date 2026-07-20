@@ -9,7 +9,7 @@ When working with others, I'm a thoughtful listener who aims to provide practica
 ## 🙋‍♀️ A little about me
 
 - Growth & Product Marketing Analyst with 3+ years across SaaS, gaming, and logistics.
-- MS in Business Analytics at USC Marshall (May 2026).
+- MS in Business Analytics at USC Marshall.
 
 ## 🛠 Skills I'm deepening
 
