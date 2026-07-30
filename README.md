@@ -8,14 +8,13 @@ When working with others, I'm a thoughtful listener who aims to provide practica
 
 ## 🙋‍♀️ A little about me
 
-- Growth & Product Marketing Analyst with 3+ years across SaaS, gaming, and logistics.
-- MS in Business Analytics at USC Marshall.
+Product & Growth Marketing professional with 3+ years of experience leveraging analytics to improve customer acquisition, retention, and business growth across B2B SaaS, AI, gaming, and digital platforms.
 
 ## 🛠 Skills I'm deepening
 
-- **Programming & Databases:** Excel (PivotTables, Power Query) | SQL | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow)  
-- **Visualization & BI:** Looker | Tableau | PowerBI
-- **Analytics & Modeling:** A/B Testing | Cohort Analysis | Funnel Analytics | Segmentation | Predictive Modeling
+- **Programming & Databases:** Excel (PivotTables, Power Query, advanced formulas) | SQL (window functions, CTEs, complex aggregations) | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow) | BigQuery  
+- **Visualization & BI:** Looker | Tableau | PowerBI | KPI Reporting
+- **Analytics & Modeling:** Statistical Testing | Experimental Design | A/B Testing | Behavioral & Cohort Analysis | Funnel & Attribution Analysis | Segmentation | Predictive Modeling | Data Quality & Governance
 - **Tools:** Google Workspace | Microsoft Office
 
 ## ⭐ Projects I've worked on
