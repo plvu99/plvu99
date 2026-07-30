@@ -12,7 +12,7 @@ Product & Growth Marketing professional with 3+ years of experience leveraging a
 
 ## 🛠 Skills I'm deepening
 
-- **Programming & Databases:** Excel (PivotTables, Power Query, advanced formulas) | SQL (window functions, CTEs, complex aggregations) | Python (pandas, numpy, matplotlib, seaborn, scikit-learn, tensorflow) | BigQuery  
+- **Programming & Databases:** SQL (window functions, CTEs, complex aggregations) | Python (pandas, numpy, matplotlib, seaborn, scikit-learn, tensorflow) | BigQuery | Excel (PivotTables, Power Query, advanced formulas)
 - **Visualization & BI:** Looker | Tableau | PowerBI | KPI Reporting
 - **Analytics & Modeling:** Statistical Testing | Experimental Design | A/B Testing | Behavioral & Cohort Analysis | Funnel & Attribution Analysis | Segmentation | Predictive Modeling | Data Quality & Governance
 - **Tools:** Google Workspace | Microsoft Office
