@@ -8,7 +8,7 @@ When working with others, I'm a thoughtful listener who aims to provide practica
 
 ## 🙋‍♀️ A little about me
 
-Product & Growth Marketing professional with 3+ years of experience leveraging analytics to improve customer acquisition, retention, and business growth across B2B SaaS, AI, gaming, and digital platforms.
+Growth & Product Marketing professional with 3+ years leveraging analytics to drive customer acquisition, product adoption, retention, and business growth across B2B SaaS, AI, and digital platforms.
 
 ## 🛠 Skills I'm deepening
 
